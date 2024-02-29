@@ -16,3 +16,11 @@ public void llenaDesde(Jarra j) {
 public String toString() {
     return "(" + this.capacidad + "," + this.cantidad + ")";
 }
+
+public int capacidad() {
+    return this.capacidad;
+}
+
+public int cantidad() {
+    return this.cantidad;
+}
