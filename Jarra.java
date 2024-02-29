@@ -43,8 +43,8 @@ public class Jarra { //atributos
 
  	public void metodoComunitario(){
  		// Comentario incluido para pruebas
-		System.out.println("Aqui escribimos todos");
-		Alexandra Rodriguez Serantes
+		System.out.println("Alexandra Rodríguez Serantes");
+		System.out.println("Rubén M. Rodríguez Chamorro");
  	}
 
 }
